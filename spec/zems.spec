@@ -25,7 +25,7 @@ Requires: python >= 2.6
 Requires: python-setuptools
 %endif
 
-Requires: zabbix
+Requires: MySQL-python
 Requires: zabbix-agent
 Requires: sudo
 Vendor: Marijn Giesen <marijn@studio-donder.nl>
